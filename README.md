@@ -1,6 +1,6 @@
 ![Imagen logo Kotlin](./images/logoKotlin.png)
 
-### Curso de introduccion a Kotlin de Platzi.
+### Curso de introducción a Kotlin de Platzi.
 
 <br>
 Temas Vistos:
@@ -14,7 +14,8 @@ Temas Vistos:
 6. Ciclos
 7. Listas
 
-## Proyectos:
+## Algunos proyectos realizados a partir del curso:
 
 #### 1. Calculadora
 #### 2. Conversor de monedas
+#### 3. Juego Piedra, Papel y Tijera
