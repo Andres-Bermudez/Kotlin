@@ -5,8 +5,8 @@ var valorConvertido = 0.0f
 
 val LISTA_MONEDAS = listOf("Pesos Colombianos", "Dolares EE.UU", "Libras Esterlinas")
 
-// Precios a fecha 25 de Julio de 2024
-const val PRECIO_DOLAR = 4031.50f // Pesos Colombianos
+// Precios a fecha 30 de Julio de 2024
+const val PRECIO_DOLAR = 4060.50f // Pesos Colombianos
 const val PRECIO_LIBRA_ESTERLINA = 1.29f // Dolares
 
 fun main() {
